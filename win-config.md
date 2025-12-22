@@ -6,4 +6,4 @@
 - unity hub
 - epic games
 - warp
-- codex
+- codex -> C:\Users\Administrator\.codex
